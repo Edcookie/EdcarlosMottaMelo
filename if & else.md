@@ -79,7 +79,7 @@ Vou mostrar exemplos de como usar if e else com float, char e int.
 
   
 
-  int main() {
+int main() {
       int idade;
 
       printf("Digite sua idade: ");
@@ -92,7 +92,7 @@ Vou mostrar exemplos de como usar if e else com float, char e int.
       }
 
       return 0;
-  }
+}
 
 
 
@@ -104,7 +104,7 @@ Vou mostrar exemplos de como usar if e else com float, char e int.
 
 
 
-  int main() {
+int main() {
       float temperatura;
 
       printf("Digite a temperatura em graus Celsius: ");
@@ -117,7 +117,7 @@ Vou mostrar exemplos de como usar if e else com float, char e int.
       }
 
       return 0;
-  }
+}
 
 
 
@@ -129,7 +129,8 @@ Vou mostrar exemplos de como usar if e else com float, char e int.
 
 
 
-  int main() {
+
+int main() {
       char letra;
 
       printf("Digite uma letra: ");
