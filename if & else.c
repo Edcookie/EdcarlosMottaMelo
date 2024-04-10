@@ -73,7 +73,8 @@ int main() {
 
 
 
-  Neste exemplo, o programa verifica se o número é positivo, negativo ou zero. Se o número for maior que zero, ele imprime "O número é positivo.". Se for menor que zero, imprime "O número é negativo.". Se nenhuma dessas condições for verdadeira (ou seja, o número for igual a zero), ele imprime "O número é zero.".
+  Neste exemplo, o programa verifica se o número é positivo, negativo ou zero. Se o número for maior que zero, ele imprime "O número é positivo.". 
+    Se for menor que zero, imprime "O número é negativo.". Se nenhuma dessas condições for verdadeira (ou seja, o número for igual a zero), ele imprime "O número é zero.".
 
 
   Vou mostrar exemplos de como usar if e else com float, char e int.
@@ -100,7 +101,8 @@ int main() {
 
 
   
-  Neste exemplo, o programa solicita ao usuário inserir sua idade como um número inteiro (int). Em seguida, verifica se a idade é maior ou igual a 18. Se for, imprime "Você é maior de idade.". Caso contrário, imprime "Você é menor de idade.".
+  Neste exemplo, o programa solicita ao usuário inserir sua idade como um número inteiro (int). Em seguida, verifica se a idade é maior ou igual a 18. Se for, imprime "Você é maior de idade.". 
+    Caso contrário, imprime "Você é menor de idade.".
 
   Exemplo com float:
 
@@ -125,7 +127,8 @@ int main() {
 
 
   
-  Neste exemplo, o programa solicita ao usuário inserir a temperatura em graus Celsius como um número de ponto flutuante (float). Em seguida, verifica se a temperatura é inferior a 0.0. Se for, imprime "Está muito frio!". Caso contrário, imprime "Está quente!".
+  Neste exemplo, o programa solicita ao usuário inserir a temperatura em graus Celsius como um número de ponto flutuante (float). Em seguida, verifica se a temperatura é inferior a 0.0. 
+    Se for, imprime "Está muito frio!". Caso contrário, imprime "Está quente!".
 
     
   Exemplo com char:
@@ -152,4 +155,6 @@ int main() {
 
 
   
-  Neste exemplo, o programa solicita ao usuário inserir uma letra como um caractere (char). Em seguida, verifica se a letra é uma vogal (a, e, i, o, u). Se for, imprime "A letra digitada é uma vogal.". Caso contrário, imprime "A letra digitada é uma consoante.". Note que para caracteres individuais em C, você precisa usar aspas simples (') ao invés de duplas (").
+  Neste exemplo, o programa solicita ao usuário inserir uma letra como um caractere (char). Em seguida, verifica se a letra é uma vogal (a, e, i, o, u). 
+Se for, imprime "A letra digitada é uma vogal.". Caso contrário, imprime "A letra digitada é uma consoante.". 
+  Note que para caracteres individuais em C, você precisa usar aspas simples (') ao invés de duplas (").
