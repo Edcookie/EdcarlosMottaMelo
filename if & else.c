@@ -10,7 +10,7 @@ Exemplo:
 
 
 if (condição) {
-    Código a ser executado se a condição for verdadeira
+    //Código a ser executado se a condição for verdadeira
 }
 
 
@@ -22,11 +22,11 @@ Exemplo:
 
 if (condição) {
     
-    Código a ser executado se a condição for verdadeira
+    //Código a ser executado se a condição for verdadeira
     
 } else {
     
-    Código a ser executado se a condição for falsa
+    //Código a ser executado se a condição for falsa
 }
 
 
@@ -38,15 +38,15 @@ Exemplo:
 
 if (condição1) {
     
-    Código a ser executado se a condição1 for verdadeira
+    //Código a ser executado se a condição1 for verdadeira
     
 } else if (condição2) {
     
-    Código a ser executado se a condição1 for falsa e a condição2 for verdadeira
+    //Código a ser executado se a condição1 for falsa e a condição2 for verdadeira
         
 } else {
     
-    Código a ser executado se todas as condições anteriores forem falsas
+    //Código a ser executado se todas as condições anteriores forem falsas
         
  }
 
@@ -57,7 +57,7 @@ Exemplo de Uso:
 int main() {
     int numero = 10;
 
-      Verifica se o número é positivo, negativo ou zero
+      //Verifica se o número é positivo, negativo ou zero
     
     if (numero > 0) {
         printf("O número é positivo.\n");
@@ -127,6 +127,7 @@ int main() {
   
   Neste exemplo, o programa solicita ao usuário inserir a temperatura em graus Celsius como um número de ponto flutuante (float). Em seguida, verifica se a temperatura é inferior a 0.0. Se for, imprime "Está muito frio!". Caso contrário, imprime "Está quente!".
 
+    
   Exemplo com char:
 
 
