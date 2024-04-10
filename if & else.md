@@ -1,3 +1,5 @@
+Estudo básico (if e else)
+
 if e else:
 if: É uma estrutura condicional que permite executar um bloco de código se uma condição específica for verdadeira.
 
