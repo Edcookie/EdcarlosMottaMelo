@@ -20,11 +20,11 @@ Exemplo:
 
 
 
-if (condição) {
+ if (condição) {
     // Código a ser executado se a condição for verdadeira
 } else {
     // Código a ser executado se a condição for falsa
-}
+ }
 
 
 
@@ -35,13 +35,13 @@ Exemplo:
 
 
 
-if (condição1) {
+ if (condição1) {
     // Código a ser executado se a condição1 for verdadeira
 } else if (condição2) {
     // Código a ser executado se a condição1 for falsa e a condição2 for verdadeira
 } else {
     // Código a ser executado se todas as condições anteriores forem falsas
-}
+ }
 
 
 
@@ -51,7 +51,7 @@ Exemplo de Uso:
 
 
 
-int main() {
+ int main() {
     int numero = 10;
 
     // Verificar se o número é positivo, negativo ou zero
@@ -64,7 +64,7 @@ int main() {
     }
 
     return 0;
-}
+ }
 
 
 
@@ -79,7 +79,7 @@ Vou mostrar exemplos de como usar if e else com float, char e int.
 
   
 
-int main() {
+ int main() {
       int idade;
 
       printf("Digite sua idade: ");
@@ -92,7 +92,7 @@ int main() {
       }
 
       return 0;
-}
+ }
 
 
 
@@ -104,7 +104,7 @@ int main() {
 
 
 
-int main() {
+ int main() {
       float temperatura;
 
       printf("Digite a temperatura em graus Celsius: ");
@@ -117,7 +117,7 @@ int main() {
       }
 
       return 0;
-}
+ }
 
 
 
@@ -130,7 +130,7 @@ int main() {
 
 
 
-int main() {
+ int main() {
       char letra;
 
       printf("Digite uma letra: ");
@@ -143,7 +143,7 @@ int main() {
       }
 
       return 0;
-  }
+ }
 
 
 
